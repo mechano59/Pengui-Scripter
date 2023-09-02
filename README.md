@@ -1,6 +1,6 @@
-
-
 # PenGUI Scripter - Flutter App
+
+![App Logo](https://github.com/mechano59/Pengui-Scripter/blob/main/app-icon.png)
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.10.5-blue)
 ![Dart](https://img.shields.io/badge/Dart-3.0.5-green)
