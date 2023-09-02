@@ -1,4 +1,5 @@
 
+
 # PenGUI Scripter - Flutter App
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.10.5-blue)
@@ -20,17 +21,17 @@ Welcome to **PenGUI Scripter**, a mobile application developed using Flutter and
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/mechano59/Pengui-Scripter/blob/main/screenshots/Screenshot-01.png)
+![Screenshot 1](https://github.com/mechano59/Pengui-Scripter/blob/main/screenshots/Screenshot-01.jpg)
 
 
-![Screenshot 2](https://github.com/mechano59/Pengui-Scripter/blob/main/screenshots/Screenshot-02.png)
+![Screenshot 2](https://github.com/mechano59/Pengui-Scripter/blob/main/screenshots/Screenshot-02.jpg)
 
 
-![Screenshot 3](https://github.com/mechano59/Pengui-Scripter/blob/main/screenshots/Screenshot-03.png)
+![Screenshot 3](https://github.com/mechano59/Pengui-Scripter/blob/main/screenshots/Screenshot-03.jpg)
 
-![Screenshot 4](https://github.com/mechano59/Pengui-Scripter/blob/main/screenshots/Screenshot-04.png)
+![Screenshot 4](https://github.com/mechano59/Pengui-Scripter/blob/main/screenshots/Screenshot-04.jpg)
 
-![Screenshot 5](https://github.com/mechano59/Pengui-Scripter/blob/main/screenshots/Screenshot-05.png)
+![Screenshot 5](https://github.com/mechano59/Pengui-Scripter/blob/main/screenshots/Screenshot-05.jpg)
 
 
 ## License
